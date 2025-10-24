@@ -1,5 +1,13 @@
 .main-content {
   background-color: rgb(124, 202, 216);
+  padding: 20px;
+
+  h3,
+  h5 {
+    display: flex;
+    justify-content: center;
+  }
+
   p {
     background-color: lightgray;
     padding: 50px;
